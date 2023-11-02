@@ -1,0 +1,195 @@
+{
+  "owner_id": "Me",
+  "name": "不平凡的酒局",
+  "tags": [""],
+  "description": "聽說有人遲到所以我們要特別拉一個帳本",
+  "participants": [
+    "Me",
+    "roy",
+    "ktc",
+    "遲到仔",
+    "朋友 A"
+  ],
+  "entries": [
+    {
+      "item_id": "item_id_1697312526887",
+      "cost": 1000,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "第一輪 shot",
+      "lender_id": "roy"
+    },
+    {
+      "item_id": "item_id_1697312544252",
+      "cost": 500,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "第二輪 shot",
+      "lender_id": "roy"
+    },
+    {
+      "item_id": "item_id_1697312567454",
+      "cost": 300,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "前菜",
+      "lender_id": "roy"
+    },
+    {
+      "item_id": "item_id_1697312587905",
+      "cost": 100,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "ktc",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "調酒",
+      "lender_id": "ktc"
+    },
+    {
+      "item_id": "item_id_1697312602334",
+      "cost": 600,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "ktc",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "調酒二",
+      "lender_id": "ktc"
+    },
+    {
+      "item_id": "item_id_1697312643410",
+      "cost": 300,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "ktc",
+          "weight": 1
+        },
+        {
+          "user_id": "遲到仔",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "調酒三",
+      "lender_id": "ktc"
+    },
+    {
+      "item_id": "item_id_1697312689950",
+      "cost": 300,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "ktc",
+          "weight": 1
+        },
+        {
+          "user_id": "遲到仔",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "下酒菜",
+      "lender_id": "Me"
+    },
+    {
+      "item_id": "item_id_1697312766583",
+      "cost": 2200,
+      "payers": [
+        {
+          "user_id": "Me",
+          "weight": 1
+        },
+        {
+          "user_id": "roy",
+          "weight": 1
+        },
+        {
+          "user_id": "ktc",
+          "weight": 1
+        },
+        {
+          "user_id": "朋友 A",
+          "weight": 1
+        }
+      ],
+      "item_name": "龍舌蘭",
+      "lender_id": "Me"
+    }
+  ]
+}
